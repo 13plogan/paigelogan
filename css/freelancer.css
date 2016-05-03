@@ -61,7 +61,7 @@ hr.star-primary {
   border-color: black;
 }
 hr.star-primary:after {
-  background-color: white;
+  background-color: #53bde0;
   color: black;
 }
 .img-centered {
