@@ -1089,7 +1089,8 @@ body {
   font-size: 14px;
   line-height: 1.42857143;
   color: #333333;
-  background-color: #ffffff;
+  background-color: #000000
+  ;
 }
 input,
 button,
@@ -1100,7 +1101,7 @@ textarea {
   line-height: inherit;
 }
 a {
-  color: #337ab7;
+  color: #53bde0;
   text-decoration: none;
 }
 a:hover,
@@ -1377,14 +1378,14 @@ a.text-danger:focus {
 }
 .bg-primary {
   color: #fff;
-  background-color: #337ab7;
+  background-color: #53bde0;
 }
 a.bg-primary:hover,
 a.bg-primary:focus {
   background-color: #dff0d8;
 }
 .bg-success {
-  background-color: #dff0d8;
+  background-color: #53bde0;
 }
 a.bg-success:hover,
 a.bg-success:focus {
