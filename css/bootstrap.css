@@ -1341,21 +1341,21 @@ mark,
   color: #777777;
 }
 .text-primary {
-  color: #337ab7;
+  color: #53bde0;
 }
 a.text-primary:hover,
 a.text-primary:focus {
   color: #286090;
 }
 .text-success {
-  color: #3c763d;
+  color: #53bde0;
 }
 a.text-success:hover,
 a.text-success:focus {
   color: #2b542c;
 }
 .text-info {
-  color: #31708f;
+  color: #53bde0;
 }
 a.text-info:hover,
 a.text-info:focus {
@@ -1381,7 +1381,7 @@ a.text-danger:focus {
 }
 a.bg-primary:hover,
 a.bg-primary:focus {
-  background-color: #286090;
+  background-color: #dff0d8;
 }
 .bg-success {
   background-color: #dff0d8;
@@ -1414,7 +1414,7 @@ a.bg-danger:focus {
 .page-header {
   padding-bottom: 9px;
   margin: 40px 0 20px;
-  border-bottom: 1px solid #eeeeee;
+  border-bottom: 1px solid #dff0d8;
 }
 ul,
 ol {
